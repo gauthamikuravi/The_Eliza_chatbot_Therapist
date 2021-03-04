@@ -5,13 +5,15 @@ to achive its goal as mimicking human psyhiatrist.
 
 
 The program matches user input ( specific keywood  witha scripted responce build by the user. 
-#*******************************************************
+*******************************************************
 Example: Dialogue with Eliza ###
-#*******************************************************
+*******************************************************
 Hello! Welcome to student psychology services
 Please feel free to express yourself
 Please enter 'quit' if you wish to discontinue at any point
-#********************************************************
+
+
+
 (Eliza) Hi, My name is Eliza. What is your name?
 (User) >> Bill
 (Eliza) Hello Bill, How are you feeling today?
