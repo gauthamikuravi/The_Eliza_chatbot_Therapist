@@ -1,7 +1,4 @@
-##############################################################################################################
-# Anugh Shrestha,Sai Gauthami Kuravi, Dilpreet Singh Bedi
-# Date- September 19 2020
-# Team - Team 8 Section 2
+
 ##############################################################################################################
 ##### INTRODUCTION ####
 ### Eliza is Keyword/rule-based chatbot that mimickes a human psychiatrist. It means that Eliza's responce is not based on
